@@ -620,6 +620,10 @@ body {
 	margin-bottom: 1rem;
 }
 
+.italic {
+	font-style: italic;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
 	.hero-content {
